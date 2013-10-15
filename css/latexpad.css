@@ -1,0 +1,66 @@
+#latexpad_wrapper{
+	width:100%;
+	height:100%;
+	padding:36px 0 0 0;
+}
+.latexpad_box{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+.latexpad_col{
+	height:100%;
+	width:50%;
+	float:left;
+}
+.latexpad_cell{
+	width:100%;
+	float:left;
+}
+
+#latexpad_col_1{
+	padding-right:2px;
+}
+#latexpad_vspliter{
+	width:4px;
+	margin-left:-2px;
+	background-color:#cccccc;
+}
+#latexpad_col_2{
+	padding-left:2px;
+	margin-left:-2px;
+}
+
+#latexpad_pad{
+	height:70%;
+	padding-bottom:2px;
+	overflow:hidden;
+}
+#latexpad_hspliter{
+	height:4px;
+	margin-top:-2px;
+	background-color:#cccccc;
+}
+#latexpad_log{
+	height:30%;	
+	padding:2px 5px 5px 5px;
+	margin-top:-2px;
+	overflow:auto;
+}
+#latexpad_preview{
+	height:100%;
+	padding:5px;
+	overflow-x:hidden;
+	overflow-y:auto;
+	background-color:#333333;
+}
+#latexpad_preview img{
+	width:100%;
+}
+
+#latexpad_log{
+	color:white;
+	background-color:#333333;
+	font-family:monospace;
+}
+

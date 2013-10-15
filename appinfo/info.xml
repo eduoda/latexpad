@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+  <id>latexpad</id>
+  <name>LaTeX Pad</name>
+  <description>Tools for collaborative LaTeX documents.</description>
+  <version>0.1</version>
+  <licence>AGPL v3.0</licence>
+  <author>Eduardo Oda</author>
+  <require>5.0</require>
+</info>
