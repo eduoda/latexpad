@@ -35,7 +35,7 @@ Tools for collaborative LaTeX documents.
 * Go to the "Admin" interface and configure the APIKEY and the Etherpad Server.
 * Install the etherpad
 * Go to ETHERPAD_DIR/node_modules and clone the plugin:
-	<pre><code>$ git clone https://github.com/eduoda/latexpad.git</code></pre>
+	<pre><code>$ git clone https://github.com/eduoda/ep_latexpad.git</code></pre>
 * Access the etherpad admin page and check if the plugin is enabled. 
 * Done!
 
